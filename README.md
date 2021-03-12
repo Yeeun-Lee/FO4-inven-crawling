@@ -1,11 +1,10 @@
-# fifaonline4_aaaab
-repository for 3rd team(aaaab) of Parrot, data science society, Sogang University.
+## FIFA online 4 inven crawling
+http://fifaonline4.inven.co.kr/
 
-> Edit this file with your **progress**
-> - MarkDown : (https://eungbean.github.io/2018/06/11/How-to-use-markdown/)
+### project overview
+- 서강대학교 데이터 사이언스 학회 패럿 - 팀 aaaab
+- 피파 온라인 4 댓글 분석을 통한 선수 추천
 
-### **Rules**
-| Meeting Day | On/Off |
-|:-----------:|:------:|
-| Mon         | ONLINE |
-| Tue         | OFFLINE|
+>- comment crawling
+>- stat crawling
+>- [further processes](https://github.com/Yeeun-Lee/fifa-online4-player-reco-sys)
